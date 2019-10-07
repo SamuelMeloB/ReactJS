@@ -9,8 +9,8 @@ function sum(a, b) {
 function primeiroJSX() {
   return (
     <div className="teste">
-      Bruno Carneiro - Introdução ao ReactJS
-      <h1>Soma: {sum(10, 20)}</h1>
+      Samuel Barros
+      <h1>Soma: {sum(20, 20)}</h1>
     </div>
   )
 }
