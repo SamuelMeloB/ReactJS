@@ -15,5 +15,4 @@ function App() {
 }
 
 const rootElement = document.getElementById("root")
-ReactDOM.render(element2, rootElement)
-//<App />
+ReactDOM.render(<App />, rootElement)
